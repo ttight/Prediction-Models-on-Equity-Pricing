@@ -7,6 +7,6 @@ My group chose to use various prediction models to find statistical meaning in e
 
 In this project we use: PCA, Lasso & Ridge Regression, Linear Regression, and various other ways of analyzing equities data. 
 
-The Cis_545_ProjectNotebook file contains the code for data wrangling, cleaning, modeling, and results, with graphical representations of analysis and results, as well as text explanations and reasoning. 
+The **Cis_545_ProjectNotebook** file contains the code for data wrangling, cleaning, modeling, and results, with graphical representations of analysis and results, as well as text explanations and reasoning. 
 
 TODO: Add the takeaways section from the notebook into the readme
